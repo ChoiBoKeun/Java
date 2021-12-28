@@ -20,7 +20,7 @@
 	out.println("하나의 APPLICATION 속성:"+application.getAttribute("name")+"<br>");
 
 // 	RequestDispatcher rd=request.getRequestDispatcher("07_secondpage.jsp");
-// 	rd.forward(request,response);
+// 	rd.forward(request,response);.
 	request.setAttribute("name","request man");
 	request.getRequestDispatcher("07_secondpage.jsp").forward(request,response); //포워드 방식
 	
