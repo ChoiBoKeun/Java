@@ -17,7 +17,7 @@ out.print("<br>local_cnt : ");
 out.print(++local_cnt);
 
 out.print("<br>global_cnt :");
-out.print(++global_cnt);
+out.print(++global_cnt);//
 %>
 </body>
 </html>
