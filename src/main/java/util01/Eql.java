@@ -28,7 +28,7 @@ public class Eql extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest req, HttpServletResponse response) throws ServletException, IOException {
-		response.setContentType("text/html; charset=utf-8");
+		response.setContentType("text/html; charset=utf-8"); 
 		String str1=req.getParameter("a");
 		String str2=req.getParameter("b");
 		String str3=req.getParameter("c");
