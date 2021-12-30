@@ -10,7 +10,7 @@
 table {border-collapse:collapse;}
 td {border:1px solid blue;}
 </style>
-<body>
+<body><!-- test -->
 <form method=POST action='validate.jsp'>
 <table>
 <tr><td align=right>실명</td><td><input type=text name=name></td>

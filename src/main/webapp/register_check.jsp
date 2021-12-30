@@ -28,7 +28,7 @@ String[] arInterest = request.getParameterValues("interest");
 <input type=button id=btnLogin value='로그인가기'>
 </body>
 <script src='https://code.jquery.com/jquery-3.5.0.js'></script>
-<script>
+<script><!-- test -->
 $(document)
 .ready(function(){
 	setTimeout(function(){
