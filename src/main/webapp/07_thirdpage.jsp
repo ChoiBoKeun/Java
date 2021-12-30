@@ -7,14 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%
-	out.println("thirdPage.jsp<br>");
-	out.println("하나의 PAGE 속성:"+pageContext.getAttribute("name")+"<br>");
-	out.println("하나의 REQUEST 속성:"+request.getAttribute("name")+"<br>");
-	out.println("하나의 SESSION 속성:"+session.getAttribute("name")+"<br>");
-	out.println("하나의 APPLICATION 속성:"+application.getAttribute("name")+"<br>");//
-	
-	
-%>
+thirdPage.jsp<br>
+하나의 PAGE 속성:${pageScope.name}<br>
+하나의 REQUEST속성:${requestScope.name}<br>
+하나의 SESSION속성:${sessionScope.name}<br>
+하나의 APPLICATION 속성:${applicationScope.name}<br>
 </body>
 </html>
