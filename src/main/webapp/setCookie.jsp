@@ -10,7 +10,7 @@
 <%
 	Cookie c = new Cookie("id","qhrms"); //쿠키 만들기
 	c.setMaxAge(365*24*60*60); // 쿠키의 수명 지정
-	response.addCookie(c); // 클라이언트에 쿠키파일 생성
+	response.addCookie(c); // 클라이언트에 쿠키파일 생성.
 %>
 <h3>쿠키설정</h3>
 </body>
