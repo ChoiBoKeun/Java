@@ -17,7 +17,7 @@ if(val1==null || val2==null || operator==null) {
 Double v1=Double.parseDouble(val1);
 Double v2=Double.parseDouble(val2);
 int result=0;
-if(operator.equals("+")) { //부모파일에서 쓴 값들을 가져와서 사용 가능
+if(operator.equals("+")) { //부모파일에서 쓴 값들을 가져와서 사용 가능 test
 	 result+=v1+v2;
 } else if(operator.equals("-")) {
 	 result+=v1-v2;

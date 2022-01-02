@@ -12,7 +12,7 @@
 <tr><td>이름</td><td><input type text name=name id=name></td></tr>
 <tr><td>생년월일</td><td><input type=date name=birthday id=birthday></td></tr>
 <tr><td>모바일</td><td><input type=text name=mobile id=mobile></td></tr>
-<tr><td colspan=2 align=center>
+<tr><td colspan=2 align=center> <!-- test -->
 		<input type=submit value="전송"><input type=reset value="Reset">
 	</td></tr>
 </table>

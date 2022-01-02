@@ -18,7 +18,7 @@
 <option>/</option>
 </td></tr></select>
 <tr><td colspan=2 align=center>
-		<input type=submit value="전송"><input type=reset value="Reset">
+		<input type=submit value="전송"><input type=reset value="Reset"> <!--  test -->
 	</td></tr>
 </table>
 </form>

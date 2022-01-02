@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Hello World, Choi Bo Keun.</h1>
-넌 누구니?
+넌 누구니? <-- test -->
 <input type = text id = txtMyName>
 </body>
 </html>
