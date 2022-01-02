@@ -31,7 +31,7 @@ Korea GMT-8:<fmt:formatDate value="${now}" type="both" dateStyle="full" timeStyl
 <%-- <% --%>
 <!--  if(request.getParameter("color")==null){ -->
 <%--  %> --%>
-<!-- 	<span style="color:purple">parameter 없음</span> -->
+<!-- 	<span style="color:purple">parameter 없음</span>. -->
 <%-- <% --%>
 <%-- <% --%>
 <!--  } else if(request.getParameter("color").equals("1")){ -->
