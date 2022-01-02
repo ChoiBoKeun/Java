@@ -13,7 +13,7 @@
    
 //    Cookie c1 = new Cookie("passcode",null); //쿠키 만들기
 //    c.setMaxAge(0);   //쿠키의 수명 지정 365일 24번 60번 60초 =24시간
-//    response.addCookie(c1); //클라이언트에 쿠키화일 생성(화일로 쓰기)
+//    response.addCookie(c1); //클라이언트에 쿠키화일 생성.(화일로 쓰기)
    
    response.sendRedirect("home.jsp");
 %>

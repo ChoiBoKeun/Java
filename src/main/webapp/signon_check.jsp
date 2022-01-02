@@ -21,6 +21,7 @@ String passcode = request.getParameter("passcode");
 	// let interest = request.getParameterValues("areas",interest.join(","));
 	// "areas" = ["politics","economics","culture","art"];
 	// area="politice,economics,culture,art";
+	//
 %>
 이름:<c:out value="${param.name}" /><br>
 성별:<c:out value="${param.gender}" /><br>

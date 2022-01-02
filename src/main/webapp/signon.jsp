@@ -107,6 +107,6 @@ $(document)
 })
 .on('click',"#cancel1",function(){
    document.location='home.jsp';
-})
+})//
 </script>
 </html>

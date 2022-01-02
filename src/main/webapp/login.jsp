@@ -62,6 +62,6 @@ $(document)
 		   return false;
 	   }
 	   return true;
-})
+})//
 </script>
 </html>

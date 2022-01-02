@@ -17,6 +17,6 @@ session.setAttribute("passcode",passcode);
 }else {
 //     request.getRequestDispatcher("login.jsp").forward(request,response);
     jspfile="login.jsp";
- }
+ }//
 %>
 <jsp:forward page="<%=jspfile %>" />	

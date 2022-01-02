@@ -8,7 +8,7 @@ background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPcAAADMCAMAA
 	color:white;
 	font-family:fantasy;
 	font-size:30px;
-}
+}<!---->
 </style>
 <body id=c2>
 <h3 id=c1>Sign In World of Cannon</h3>
