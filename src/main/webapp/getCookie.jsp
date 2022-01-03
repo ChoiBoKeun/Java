@@ -11,7 +11,7 @@
 	Cookie[] cookies=request.getCookies();
 	for(Cookie c: cookies){
 		out.println(c.getName()+":"+c.getValue()+"<br>");
-	}//
+	}//.
 %>
 </body>
 </html>
